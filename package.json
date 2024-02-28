@@ -1,0 +1,11 @@
+{
+  "name": "mongodb-cp",
+  "version": "1.0.0",
+  "description": "mongodb checkpoint",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "seyiBot",
+  "license": "ISC"
+}
